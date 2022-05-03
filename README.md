@@ -72,6 +72,34 @@
 [Bookmarking Site REPO](https://github.com/marlonbarrios/bookmarker/ 'Bookmarking Site')
 
 
+[![Form Validator HTML5](formvalidation.png)](https://marlonbarrios.github.io/form-validation-html5/)
+
+[Form Validator HTML5 LIVE](https://marlonbarrios.github.io/form-validation-html5/ 'Form Validator HTML5')
+
+[Form Validator HTML5 REPO](https://github.com/marlonbarrios/form-validation-html5 'Form Validator HTML5')
+
+[![Rock Paper Scissors Lizard Spock Game](rpls.png)](https://marlonbarrios.github.io/rock-paper-lizard-spock/)
+
+[Rock Paper Scissors Lizard Spock Game LIVE](https://marlonbarrios.github.io/rock-paper-lizard-spock/ 'Rock Paper Scissors Lizard Spock Game')
+
+[Rock Paper Scissors Lizard Spock Game REPO](https://github.com/marlonbarrios/rock-paper-lizard-spock 'Rock Paper Scissors Lizard Spock Game')
+
+
+![NASA IMAGES API](nasa.png)](https://marlonbarrios.github.io/nasa-images-api/)
+
+[NASA IMAGES API LIVE](https://marlonbarrios.github.io/nasa-images-api/ 'NASA IMAGES API')
+
+[NASA IMAGES API REPO](https://github.com/marlonbarrios/nasa-images-api 'NASA IMAGES API')
+
+
+![Kanban Board](kanban.png)](https://marlonbarrios.github.io/kanban-drag-drop/)
+
+[Kanban Board LIVE](https://marlonbarrios.github.io/kanban-drag-drop/ 'Kanban Board API')
+
+[Kanban Board REPO](https://github.com/marlonbarrios/kanban-drag-drop 'Kanban Board API')
+
+
+
 
 
 
