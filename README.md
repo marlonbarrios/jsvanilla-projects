@@ -1,5 +1,14 @@
 # Vanilla Java Script Projects
 
+
+[![Simple Calculator](calculator.png)](https://marlonbarrios.github.io/cool-calculator/)
+
+[Simple Calculator LIVE](https://marlonbarrios.github.io/cool-calculator/ 'Simple Calculator')
+
+[Simple Calculator REPO](https://github.com/marlonbarrios/cool-calculator 'Simple Calculator')
+
+
+
 [![JavaScript Video Player](videoplayer.png)](https://marlonbarrios.github.io/video-player-js/)
 
 [JavaScript Video Player LIVE](https://marlonbarrios.github.io/video-player-js/ 'JavaScript Video Player')
