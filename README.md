@@ -7,6 +7,13 @@
 [JavaScript Video Player REPO](https://github.com/marlonbarrios/video-player-js 'JavaScript Video Player') 
 
 
+[![Kanban Board](kanban.png)](https://marlonbarrios.github.io/kanban-drag-drop/)
+
+[Kanban Board LIVE](https://marlonbarrios.github.io/kanban-drag-drop/ 'Kanban Board API')
+
+[Kanban Board REPO](https://github.com/marlonbarrios/kanban-drag-drop 'Kanban Board API')
+
+
 [![live site link](quote.png)](https://marlonbarrios.github.io/quotegenerator/)
 
 [Quote Generator LIVE](https://marlonbarrios.github.io/quotegenerator/ 'Quote Generator')
@@ -91,12 +98,6 @@
 
 [NASA IMAGES API REPO](https://github.com/marlonbarrios/nasa-images-api 'NASA IMAGES API')
 
-
-![Kanban Board](kanban.png)](https://marlonbarrios.github.io/kanban-drag-drop/)
-
-[Kanban Board LIVE](https://marlonbarrios.github.io/kanban-drag-drop/ 'Kanban Board API')
-
-[Kanban Board REPO](https://github.com/marlonbarrios/kanban-drag-drop 'Kanban Board API')
 
 
 
