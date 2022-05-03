@@ -1,5 +1,12 @@
 # Vanilla Java Script Projects
 
+[![JavaScript Video Player](videoplayer.png)](https://marlonbarrios.github.io/video-player-js/)
+
+[JavaScript Video Player LIVE](https://marlonbarrios.github.io/video-player-js/ 'JavaScript Video Player')
+
+[JavaScript Video Player REPO](https://github.com/marlonbarrios/video-player-js 'JavaScript Video Player') 
+
+
 [![live site link](quote.png)](https://marlonbarrios.github.io/quotegenerator/)
 
 [Quote Generator LIVE](https://marlonbarrios.github.io/quotegenerator/ 'Quote Generator')
@@ -56,4 +63,15 @@
 [Countdown LIVE](https://marlonbarrios.github.io/count-down/ 'Countdown')
 
 [Countdown REPO](https://github.com/marlonbarrios/count-down 'Countdown') 
+
+
+[![Bookmarking Site](bookmarks.png)](https://marlonbarrios.github.io/bookmarker/)
+
+[Bookmarking Site LIVE](https://marlonbarrios.github.io/bookmarker/ 'Bookmarking Site')
+
+[Bookmarking Site REPO](https://github.com/marlonbarrios/bookmarker/ 'Bookmarking Site')
+
+
+
+
 
