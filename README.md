@@ -14,6 +14,13 @@
 [Kanban Board REPO](https://github.com/marlonbarrios/kanban-drag-drop 'Kanban Board API')
 
 
+[![PaintR](paintr.png)](https://marlonbarrios.github.io/paintr/)
+
+[PaintR LIVE](https://marlonbarrios.github.io/paintr/ 'PaintR')
+
+[PaintR REPO](https://github.com/marlonbarrios/paintr 'PaintR')
+
+
 [![live site link](quote.png)](https://marlonbarrios.github.io/quotegenerator/)
 
 [Quote Generator LIVE](https://marlonbarrios.github.io/quotegenerator/ 'Quote Generator')
@@ -92,11 +99,15 @@
 [Rock Paper Scissors Lizard Spock Game REPO](https://github.com/marlonbarrios/rock-paper-lizard-spock 'Rock Paper Scissors Lizard Spock Game')
 
 
-![NASA IMAGES API](nasa.png)](https://marlonbarrios.github.io/nasa-images-api/)
+[![NASA IMAGES API](nasa.png)](https://marlonbarrios.github.io/nasa-images-api/)
 
 [NASA IMAGES API LIVE](https://marlonbarrios.github.io/nasa-images-api/ 'NASA IMAGES API')
 
 [NASA IMAGES API REPO](https://github.com/marlonbarrios/nasa-images-api 'NASA IMAGES API')
+
+
+
+
 
 
 
