@@ -23,3 +23,37 @@
 [Themes change portfolio LIVE](https://marlonbarrios.github.io/portfilio-theme-modes/ 'Themes change portfolio ')
 
 [Themes change portfolio  REPO](https://github.com/marlonbarrios/portfilio-theme-modes 'Themes change portfolio ') 
+
+
+
+[![Theme Animations](themeanimation.png)](https://marlonbarrios.github.io/theme-animations/)
+
+[Theme Animations LIVE](https://marlonbarrios.github.io/theme-animations/ 'Theme Animations')
+
+[Theme Animations REPO](https://github.com/marlonbarrios/theme-animations 'Theme Animations ') 
+
+
+
+[![Portfolio Animated Navigation ](animatednav.png)](https://marlonbarrios.github.io/portfolio-animated-nav/)
+
+[Portfolio Animated Navigation LIVE](https://marlonbarrios.github.io/portfolio-animated-nav/ 'Portfolio Animated Navigation ')
+
+[Portfolio Animated Navigation  REPO](https://github.com/marlonbarrios/portfolio-animated-nav 'Portfolio Animated Navigation ') 
+
+
+
+[![Music Player](musicplayer.png)](https://marlonbarrios.github.io/music-player-js/)
+
+[Music Player LIVE](https://marlonbarrios.github.io/music-player-js/ 'Music Player ')
+
+[Music Player  REPO](https://github.com/marlonbarrios/music-player-jses 'Music Player') 
+
+
+
+
+[![Countdown](countdown.png)](https://marlonbarrios.github.io/count-down/)
+
+[Countdown LIVE](https://marlonbarrios.github.io/count-down/ 'Countdown')
+
+[Countdown REPO](https://github.com/marlonbarrios/count-down 'Countdown') 
+
