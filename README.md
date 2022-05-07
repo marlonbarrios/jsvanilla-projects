@@ -207,7 +207,7 @@ Homage to the classic PONG game with the HTML canvas and #vanillajs to animate t
 
 ## Fetching GitHub Calendar
 
-Cool code to fetch the calendar of contributions to a github account...commits and mnore commits...
+Cool code to fetch the calendar of contributions to a github account...commits and more commits...
 
 #github #webdev #calendar #js
 
