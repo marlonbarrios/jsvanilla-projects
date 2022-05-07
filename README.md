@@ -1,4 +1,8 @@
-# Vanilla Java Script Projects
+# VANILLA JAVASCRIPT PROJECTS
+
+This is a collection of projects as practice on the direct porwer of Vanilla or pure Java Script in combination with HTML5 and CSS3.
+
+## Cool Calculator
 
 All the way old skool building a basic calculator and ...I have lots of fund with gradients and selection of backgrounds
 Try it!!
