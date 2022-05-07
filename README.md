@@ -94,7 +94,7 @@ I made this cool and cute Robot Joke Teller. She is very self-centered and only 
 
 #javascriptdeveloper #javascript #texttospeech #programming #oneprojectaday
 
-[![Funny Bot](portfolio.png)](https://marlonbarrios.github.io/jokebot/)
+[![Funny Bot](bot.png)](https://marlonbarrios.github.io/jokebot/)
 
 [Funny Bot LIVE](https://marlonbarrios.github.io/jokebot/ 'Funny Bot ')
 
