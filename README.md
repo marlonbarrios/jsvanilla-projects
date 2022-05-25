@@ -1,6 +1,6 @@
 # VANILLA JAVASCRIPT PROJECTS
 
-This is a collection of projects as practice on the direct porwer of Vanilla or pure Java Script in combination with HTML5 and CSS3. The projects are linked to their LIVE apps and code REPOs. Enjoy!!
+This is a collection of projects as practice on the direct power of Vanilla or pure Java Script in combination with HTML5 and CSS3. The projects are linked to their LIVE apps and code REPOs. Enjoy!!
 
 ## Cool Calculator
 
