@@ -1,5 +1,7 @@
 # VANILLA JAVASCRIPT PROJECTS
 
+[Back to Portfolio](https://marlonbarrios.github.io/)
+
 This is a collection of projects as practice on the direct power of Vanilla or pure Java Script in combination with HTML5 and CSS3. The projects are linked to their LIVE apps and code REPOs. Enjoy!!
 
 ## Cool Calculator
@@ -216,6 +218,9 @@ Cool code to fetch the calendar of contributions to a github account...commits a
 [Fetching Github Calendar LIVE](https://marlonbarrios.github.io/gitbub-calendar/ 'Fetching Github Calendar')
 
 [Fetching Github Calendar REPO](https://github.com/marlonbarrios/gitbub-calendar 'Fetching Github Calendar')
+
+
+[Back to Portfolio](https://marlonbarrios.github.io/)
 
 
 
